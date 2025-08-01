@@ -1,2 +1,6 @@
-# amazon-ecommerce-data-analysis-1
-A repository for e-commerce data analysis notebooks
+# Sales & Review Data Analysis
+Google Colab Notebook Link: \
+[Insert colab notebook links here]
+
+# Looker Visualizations
+[Insert looker link here]
